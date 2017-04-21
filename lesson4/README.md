@@ -6,7 +6,7 @@
 
 Необходимо сверстать меню из макета menu1.png использую inline-block.
 
-![menu1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson4/menu1.png)
+![menu1.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson4/menu1.png)
 
 Линия растянута на всю ширину страницы. Само меню шириной 900px и центрируется.
  
