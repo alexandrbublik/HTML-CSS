@@ -8,7 +8,7 @@
 
 Можно использовать свои наработки из lesson5 - task2
 
-![task1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson6/task1.png)
+![task1.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson6/task1.png)
 
 ## Задание 2
 
@@ -16,4 +16,4 @@
 
 Необходимо сверстать макет из файла task2.psd.
 
-![task2.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson6/task2.png)
+![task2.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson6/task2.png)
