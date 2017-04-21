@@ -24,7 +24,7 @@
 
 Необходимо сверстать меню из макета menu2.png использую float.
 
-![menu2.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson4/menu2.png)
+![menu2.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson4/menu2.png)
 
 Линия растянута на всю ширину страницы. Само меню шириной 900px и центрируется.
 
@@ -40,4 +40,4 @@
 
 Необходимо сверстать пейджер из макета pager.png.
 
-![pager.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson4/pager.png)
+![pager.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson4/pager.png)
