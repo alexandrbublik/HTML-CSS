@@ -6,7 +6,7 @@
 
 Необходимо сверстать сделать таблицу проверки зрения, глазами плохо видящего человека.
 
-![task1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson7/task1.png)
+![task1.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson7/task1.png)
 
 ## Задание 2
 
