@@ -8,7 +8,7 @@
 
 Поисковая стрелка должна уметь ресайзится по ширине.
 
-![task1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson8/task1.png)
+![task1.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson8/task1.png)
 
 
 ## Задание 2
@@ -19,7 +19,7 @@
 
 Поисковая стрелка должна уметь ресайзится по ширине.
 
-![task1.png](https://raw.githubusercontent.com/puzankov/markup_hw/master/lesson8/task2.png)
+![task1.png](https://github.com/alexandrbublik/HTML-CSS/blob/master/lesson8/task2.png)
 
 
 ## Задание 3
